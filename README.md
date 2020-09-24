@@ -1,1 +1,1 @@
-# CropDiseaseIdentification
+# Crop Disease Identification
